@@ -1,0 +1,6 @@
+/target
+/.idea
+/.vscode
+.mvn
+*.iml
+.env.example
